@@ -11,6 +11,7 @@ Links to resources useful in web development, across different platforms
 + [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
 + [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 + [Django Cheat Sheet](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
++ [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ##Tutorials
 + [Taskbuster Tutorial (Django)](http://www.marinamele.com/taskbuster-django-tutorial)
