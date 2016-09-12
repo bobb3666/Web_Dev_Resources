@@ -20,6 +20,7 @@ Links to resources useful in web development, across different platforms
 + [Build Instagram with Ruby On Rails](https://www.devwalks.com/lets-build-instagram-in-rails-part-1/)
 + [Ultimate Django](https://ultimatedjango.com/learn-django/chapters/)
 + [Try Django 1.8 (YouTube)](https://www.youtube.com/watch?v=KsLHt3D_jsE&list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
++ [Resources To Learn Django (Quora question)](https://www.quora.com/What-are-the-resources-to-learn-Django)
 
 
 ##Offical Docs
