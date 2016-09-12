@@ -31,5 +31,8 @@ Links to resources useful in web development, across different platforms
 + [Rails Guides](http://guides.rubyonrails.org/)
 + [Ruby Gems](https://rubygems.org/)
 
+##Other
++ [Stock Snap - Free Stock Photos](https://stocksnap.io/)
+
 Add further resources later.
 
